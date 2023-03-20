@@ -40,7 +40,7 @@
     <!-- Cabeçalho -->
     <div id="header_wrap" class="outer">
     <header class="inner">
-    <h1 id="project_title">Fellowsheep Gamedev's Portfolio Page<img src="assets/images/Logosheep.png" align="middle" alt="Logo sheep!"></></h1>
+    <h1 id="project_title">Fellowsheep Gamedev's Portfolio Page  <img src="assets/images/Logosheep.png" width="64px" alt="Logo sheep!"></></h1>
     <h2 id="project_tagline">Code and arts</h2>
     </header>
     </div>
