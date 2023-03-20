@@ -1,6 +1,6 @@
-<link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+<link rel="shortcut icon" type="image/x-icon" href="assets/images/LogosheepFavicon32.ico">
 
-# Fellowsheep Gamedev's Portfolio <img src="assets/images/Logosheep.png" width="40px" align="bottom">
+# Fellowsheep Gamedev's Portfolio <img src="assets/images/Logosheep.png" width="40px">
 Code and art.
 
 
