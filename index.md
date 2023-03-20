@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Fellowsheep Gamedev's Portfolio ![Logosheep](https://github.com/fellowsheep/fellowsheep.github.io/blob/main/assets/images/Logosheep.png)
+description: Code and art.
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
