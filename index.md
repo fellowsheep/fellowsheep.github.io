@@ -1,5 +1,5 @@
+<link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 
-<!--layout: default-->
 # Fellowsheep Gamedev's Portfolio <img src="assets/images/Logosheep.png" width="40px" align="bottom">
 Code and art.
 
