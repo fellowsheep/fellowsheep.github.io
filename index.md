@@ -1,6 +1,6 @@
 <table border="0">
   <tr>
-    <td> <img src="assets/images/Rossana.png" width="350px"> </td>
+    <td> <img src="assets/images/Rossana.png" width="150px"> </td>
     <td> Hello! My name is Rossana, I'm from Porto Alegre, Rio Grande do Sul, Brazil. Currently I live in Canoas, in the Greater Porto Alegre region. I've been an Assistant Professor/Lecturer of Computer Graphics and Programming in Universidade do Rio dos Sinos (UNISINOS) since 2009, and since 2019 I’ve started to focus on independent game development projects and my current goal is to achieve a Technical Artist position in Game Industry. I love to code and create art, especially designing my own characters.</td>
   </tr>
   </table>
