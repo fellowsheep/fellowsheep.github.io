@@ -1,9 +1,3 @@
-<link rel="shortcut icon" type="image/x-icon" href="assets/images/LogosheepFavicon32.ico">
-
-# Fellowsheep Gamedev's Portfolio <img src="assets/images/Logosheep.png" width="40px">
-Code and art.
-
-
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
