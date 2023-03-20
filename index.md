@@ -1,6 +1,6 @@
 
 <!--layout: default-->
-# Fellowsheep Gamedev's Portfolio <img src="https://github.com/fellowsheep/fellowsheep.github.io/blob/main/assets/images/Logosheep.png" width="40px">
+# Fellowsheep Gamedev's Portfolio <img src="assets/images/Logosheep.png" width="40px">
 
 Code and art.
 
